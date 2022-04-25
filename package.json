@@ -1,0 +1,28 @@
+{
+  "name": "ovning-mongo",
+  "version": "1.0.0",
+  "description": "tja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrymaninnen/ovning-mongo.git"
+  },
+  "keywords": [
+    "hej"
+  ],
+  "author": "henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrymaninnen/ovning-mongo/issues"
+  },
+  "homepage": "https://github.com/henrymaninnen/ovning-mongo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "prompt": "^1.3.0",
+    "promt": "0.0.0"
+  },
+  "type": "module"
+}
